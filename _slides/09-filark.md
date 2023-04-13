@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Introducing Arkadiusz"
+title: "Introducing Arkadiusz Filipiak"
 ---
 
 ⭐⭐⭐ Arkadiusz Filipiak ⭐⭐⭐
