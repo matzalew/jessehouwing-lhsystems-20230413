@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "It's a me, llengo!"
 ---
 
-Caption here
+Łukasz Lengowski
 
-![Robotocat](https://octodex.github.com/images/Robotocat.png)
+![llengo_avatar](https://avatars.githubusercontent.com/u/60554037?v=4)
 {: .center}
