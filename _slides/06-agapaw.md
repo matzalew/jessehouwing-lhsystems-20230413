@@ -1,9 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: Agata
 ---
 
 Caption here
 
-![dojocat](https://octodex.github.com/images/dojocat.jpg)
-{: .center}
+![dojocat](https://upload.wikimedia.org/wikipedia/commons/7/76/Astrantia.jpg)
