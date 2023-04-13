@@ -1,9 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Daniel Balta"
 ---
+⭐ sndwn ⭐ 
 
-Caption here
-
-![labtocat](https://octodex.github.com/images/labtocat.png)
-{: .center}
+![labtocat](https://avatars.githubusercontent.com/u/89813273?s=40&v=4)
