@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Viktor Vida!"
 ---
 
-Caption here
+Viktor Vida
 
-![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
+![snowoctocat](https://avatars.githubusercontent.com/u/26668560?v=4)
 {: .center}

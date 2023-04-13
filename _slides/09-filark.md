@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Arkadiusz Filipiak"
 ---
 
-Caption here
+⭐⭐⭐ Arkadiusz Filipiak ⭐⭐⭐
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
