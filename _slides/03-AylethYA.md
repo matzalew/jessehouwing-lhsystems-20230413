@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "This is Ayleth woohoo!"
 ---
 
 Caption here
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![saritocat](https://avatars.githubusercontent.com/u/116185987?v=4)
 {: .center}
