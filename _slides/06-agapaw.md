@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Agata
+title: 🌺Agata🌺
 ---
 
 Caption here
