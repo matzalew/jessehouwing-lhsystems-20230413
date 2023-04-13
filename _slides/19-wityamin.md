@@ -5,5 +5,5 @@ title: "Introducing Viktor Vida!"
 
 Viktor Vida
 
-![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
+![snowoctocat](https://avatars.githubusercontent.com/u/26668560?v=4)
 {: .center}
