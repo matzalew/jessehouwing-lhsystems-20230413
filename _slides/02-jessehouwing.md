@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Jesse Houwing"
 ---
 
-Caption here
+Jesse Houwing
 
-![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+![boxertocat](https://avatars.githubusercontent.com/u/4173387?v=4)
 {: .center}
