@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Inken Gamrath"
 ---
 
-Caption here
+Inken Gamrath
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![saritocat](https://avatars.githubusercontent.com/u/9553640?s=400&v=4)
 {: .center}
