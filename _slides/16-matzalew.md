@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Caption changed
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 {: .center}
